@@ -2,9 +2,9 @@
 markdown: kramdown
 
 # URL of the Site
-url: stellema.github.io
+url: https://stellema.github.io/stellema.github.io/
 # Base URL of the Site (i.e., Name of the Repository in which the Site is hosted)
-baseurl:
+baseurl: stellema.github.io
 
 # Title of the Site
 title: Annette Stellema
@@ -18,7 +18,7 @@ site-keywords: Stellema, Annette
 favicon-url:
 
 # URL of the Image of Custom Hero Image (i.e., the image in the background of the very first section of the Homepage)
-heroimage: /stellema.github.io/assets/images/Iceland.jpg
+heroimage: /assets/images/Iceland.jpg
 
 # Social Media and Contact
 # If you don't want to use any icon, you can leave them blank.
@@ -43,7 +43,7 @@ disqus-shortname:
 # Name of the Author
 author-name: Annette Stellema
 # URL for the Image of the Author
-author-image: /stellema.github.io/assets/images/AuthorImage.jpg
+author-image: /assets/images/AuthorImage.jpg
 # 60 Words About the Author
 author-about: PhD Candidate at the Climate Change Research Centre, UNSW, Sydney, Australia. My primary research interest is understanding how and why the circulation of the ocean are projected to change in a future, warmer world. I have investigated the expected future changes of ocean currents in the Pacific and Indian Ocean and the major western boundary currents including the Gulf Stream, Kuroshio Current and East Australian Current using over 60 coupled climate models. My current research examines the projected changes of source waters and biogeochemistry pathways in the equatorial Pacific using particle-tracking methods.
 # URL to the Author's Profile (i.e., Github, Twitter, Stackoverflow, etc)
