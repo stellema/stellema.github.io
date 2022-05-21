@@ -33,7 +33,6 @@ reddit_username:
 behance_username:
 dribbble_username:
 spotify_username:
-googlescholar_username: citations?hl=en&user=2uqlcxcAAAAJ
 
 # Google Analytics
 google-analytics:
@@ -46,7 +45,7 @@ author-name: Annette Stellema
 # URL for the Image of the Author
 author-image: /stellema.github.io/assets/images/AuthorImage.jpg
 # 60 Words About the Author
-author-about: Hi, I'm a PhD Candidate at the Climate Change Research Centre at the University of New South Wales in Sydney, Australia. My primary research interest is understanding how and why the circulation of the ocean are projected to change in a future, warmer world. I have investigated the expected future changes of ocean currents in the Pacific and Indian Ocean and the major western boundary currents including the Gulf Stream, Kuroshio Current and East Australian Current using over 60 coupled climate models. My current research examines the projected changes of source waters and biogeochemistry pathways in the equatorial Pacific using particle-tracking methods.
+author-about: PhD Candidate at the Climate Change Research Centre, UNSW, Sydney, Australia. My primary research interest is understanding how and why the circulation of the ocean are projected to change in a future, warmer world. I have investigated the expected future changes of ocean currents in the Pacific and Indian Ocean and the major western boundary currents including the Gulf Stream, Kuroshio Current and East Australian Current using over 60 coupled climate models. My current research examines the projected changes of source waters and biogeochemistry pathways in the equatorial Pacific using particle-tracking methods.
 # URL to the Author's Profile (i.e., Github, Twitter, Stackoverflow, etc)
 author-url: https://github.com/stellema
 
