@@ -1,15 +1,15 @@
 ---
-title: Ocean Particle Tracking: Pacific Equatorial Undercurrent Sources
+title: Particle Animations
 layout: post
-post-image: stellema.github.io/assets/images/plx_220_07.jpg
-description: Pacific particle animations.
+post-image: "https://github.com/stellema/stellema.github.io/blob/191c9f0f07b89e6b30b8f155fa62b95d033568c2/assets/images/plx_220_07.jpg"
+description: Ocean Particle Tracking: Pacific Equatorial Undercurrent Sources.
 tags:
 - Particles
 - Ocean
 - EUC
 ---
 
-# Pacific Equatorial Undercurrent sources
+# Ocean Particle Tracking: Pacific Equatorial Undercurrent Sources
 
 Lagrangian particles regularly initialized within the Pacific Equatorial Undercurrent (EUC) and back-tracked to their source using daily mean OFAM3 velocity fields.
 The animation runs backwards from 2012 in increments of 2 days for around 6 years.
