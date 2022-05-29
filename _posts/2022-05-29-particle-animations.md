@@ -1,7 +1,7 @@
 ---
 title: Particle Animations
 layout: post
-post-image: "https://raw.githubusercontent.com/stellema/stellema.github.io/main/assets/images/plx_220_07.jpg"
+post-image: https://stellema.github.io/assets/images/plx_220_07.jpg
 description: Ocean Particle Tracking: Pacific Equatorial Undercurrent Sources.
 tags:
 - Particles

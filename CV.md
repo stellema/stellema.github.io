@@ -4,23 +4,18 @@ layout: page
 ---
 
 # Education
-* **Doctor of Philosophy (Climate Science)**
-
-  University of New South Wales, Sydney
-
-  **Thesis:** A Lagrangian analysis of tropical Pacific Ocean physical and biogeochemical projected changes
+**Doctor of Philosophy (Climate Science)**
+University of New South Wales, Sydney
+**Thesis:** A Lagrangian analysis of tropical Pacific Ocean physical and biogeochemical projected changes
 
 
-* **Bachelor of Science (Honours, Climate Science), Honours Class 1**
-
-  University of New South Wales, Sydney
-
-  **Thesis:** Projected circulation changes of the South Indian Ocean
+**Bachelor of Science (Honours, Climate Science), Honours Class 1**
+University of New South Wales, Sydney
+**Thesis:** Projected circulation changes of the South Indian Ocean
 
 
-* **Bachelor of Science (Physical Oceanography and Physics)**
-
-  University of New South Wales, Sydney
+**Bachelor of Science (Physical Oceanography and Physics)**
+University of New South Wales, Sydney
 
 ---
 
@@ -43,38 +38,20 @@ layout: page
 ---
 
 # Outreach and Extracurricular Activities
-**Unit Volunteer**
-
-  2022 – present
-
+**Unit Volunteer** (2022 – present)
   State Emergency Service, Canterbury Unit, NSW
 
-**Ocean Lagrangian Programming Discussion Group**
-
-  2020 – 2022
-
+**Ocean Lagrangian Programming Discussion Group** (2020 – 2022)
   University of New South Wales, Sydney
 
-**Conference Session Co-Convenor & Co-Chair**
-
-  2021
-
+**Conference Session Co-Convenor & Co-Chair** (2021)
   Australian Meteorological and Oceanography Society
 
-**Conference Volunteer**
-
-  2018 – 2020
-
+**Conference Volunteer** (2018 – 2020)
   Australian Meteorological and Oceanography Society, Sydney, Darwin and Freemantle
 
-**Postgraduate Student Representative**
-
-  2019 – 2020
-
+**Postgraduate Student Representative** (2019 – 2020)
   Climate Change Research Centre, University of New South Wales, Sydney
 
-**Science Extension Program (Marine Heatwaves): SciX Project Developer and PhD Mentor**
-
-  2019 – 2020
-
+**Science Extension Program (Marine Heatwaves): SciX Project Developer and PhD Mentor** (2019 – 2020)
   University of New South Wales, Sydney
