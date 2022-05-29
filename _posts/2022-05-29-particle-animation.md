@@ -1,7 +1,7 @@
 ---
 title: Ocean Particle Tracking: Pacific Equatorial Undercurrent Sources
 layout: post
-post-image: /assets/images/plx_220_07.jpg
+post-image: ../assets/images/plx_220_07.jpg
 description: Pacific particle animations.
 tags:
 - Particles
