@@ -1,14 +1,14 @@
 markdown: kramdown
 
 # URL of the Site
-url: https://stellema.github.io
+url: "https://stellema.github.io"
 # Base URL of the Site (i.e., Name of the Repository in which the Site is hosted)
-baseurl:
+baseurl: ""
 
 # Title of the Site
 title: Annette Stellema
 # Description of the Site
-description: Climate Science and Physical Oceanography PhD Candidate
+description: Climate Science and Physical Oceanography PhD Student
 # URL of Image of the Site
 site-image: /assets/images/Iceland.jpg
 # Keywords of the Site

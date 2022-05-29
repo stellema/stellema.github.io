@@ -1,9 +1,24 @@
-- name: Projected slow-down of South Indian Ocean circulation
+- name: Equatorial Undercurrent Iron Sources and Pathway Projected Changes
+  link:
+  image: /assets/images/rachel-cook-mOcdke2ZQoE-unsplash.jpg
+  description: Modelling pathways of Iron to the EUC.
+
+- name: Pacific Equatorial Undercurrent Source/Pathway Projections
+  link:
+  image: /assets/images/ben-carless-GJ1Ud61umDo-unsplash.jpg
+  description: Historical/future EUC sources using Lagrangian back-tracking.
+
+- name: Pacific Equatorial Undercurrent mean-state and future changes
+  link:
+  image: /assets/images/rachel-cook-mOcdke2ZQoE-unsplash.jpg
+  description: EUC and LLWBC mean-state and future changes in reanalysis products, high-res ocean model, CMIP5 and CMIP6 ensembles.
+
+- name: South Indian Ocean circulation
   image: /assets/images/ben-carless-GJ1Ud61umDo-unsplash.jpg
   link: "https://doi.org/10.1038/s41598-019-54092-3"
-  description: Stellema, A., Sen Gupta, A. & Taschetto, A.S. (2019) Projected slow down of South Indian Ocean circulation. Scientific Reports. 9, 17705.
+  description: South Indian Ocean circulation projected changes in CMIP5 models.
 
-- name: Future changes to the upper ocean Western Boundary Currents across two generations of climate models
+- name: Atlantic, Pacific and Indian Ocean Western Boundary Currents
   link: "https://doi.org/10.1038/s41598-021-88934-w"
   image: /assets/images/rachel-cook-mOcdke2ZQoE-unsplash.jpg
-  description: Sen Gupta, A., Stellema, A., Pontes, G.M. et al. (2021) Future changes to the upper ocean Western Boundary Currents across two generations of climate models. Scientific Reports, 11.
+  description: Western Boundary Currents projected changes in CMIP5 and CMIP6 models.
