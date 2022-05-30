@@ -1,24 +1,24 @@
-- name: Equatorial Undercurrent Iron Sources and Pathway Projected Changes
+- name: "Pacific Equatorial Undercurrent: Iron Sources and Pathways Projections"
   link:
-  image: /assets/images/rachel-cook-mOcdke2ZQoE-unsplash.jpg
-  description: Modelling pathways of Iron to the EUC.
+  image: /assets/images/solen-feyissa-hHg9TTK14oQ-unsplash.jpg
+  description: Developing a Lagrangian iron model and investigating future changes.
 
-- name: Pacific Equatorial Undercurrent Source/Pathway Projections
+- name: "Pacific Equatorial Undercurrent: Sources and Pathways Projections"
   link:
-  image: /assets/images/ben-carless-GJ1Ud61umDo-unsplash.jpg
-  description: Historical/future EUC sources using Lagrangian back-tracking.
+  image: /assets/images/plx_220_07_crop.jpg
+  description: Future changes investigated using Lagrangian particle-tracking.
 
-- name: Pacific Equatorial Undercurrent mean-state and future changes
+- name: "Equatorial Pacific Circulation: Historical and Future Multi-Model Analysis"
   link:
-  image: /assets/images/rachel-cook-mOcdke2ZQoE-unsplash.jpg
-  description: EUC and LLWBC mean-state and future changes in reanalysis products, high-res ocean model, CMIP5 and CMIP6 ensembles.
+  image: /assets/images/map.jpg
+  description: EUC and subtropical cell in reanalyses, high-res ocean model, CMIP5 and CMIP6.
 
-- name: South Indian Ocean circulation
-  image: /assets/images/ben-carless-GJ1Ud61umDo-unsplash.jpg
+- name: "South Indian Ocean: Future Circulation Changes"
+  image: /assets/images/jcob-nasyr-rK2HPIseisA-unsplash.jpg
   link: "https://doi.org/10.1038/s41598-019-54092-3"
-  description: South Indian Ocean circulation projected changes in CMIP5 models.
+  description: Agulhas Current, East Madagascar Currents and Leeuwin Current in CMIP5 models.
 
-- name: Atlantic, Pacific and Indian Ocean Western Boundary Currents
+- name: Atlantic, Pacific and Indian Western Boundary Currents
   link: "https://doi.org/10.1038/s41598-021-88934-w"
-  image: /assets/images/rachel-cook-mOcdke2ZQoE-unsplash.jpg
-  description: Western Boundary Currents projected changes in CMIP5 and CMIP6 models.
+  image: /assets/images/saud-edum-Mk-iBDS4CS0-unsplash.jpg
+  description: Mean-state and projected changes in CMIP5 and CMIP6 model ensembles.
