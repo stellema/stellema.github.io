@@ -18,7 +18,7 @@ University of New South Wales, Sydney<br><br>
 ---
 
 # Publications
-*	Stellema, A., Sen Gupta, A., Taschetto, A.S. & Feng M. (2022) Pacific Equatorial Undercurrent: Mean-state, sources, and future changes. Frontiers in Climate, 4, [Pacific Equatorial Undercurrent: Mean state, sources, and future changes across models](https://www.frontiersin.org/articles/10.3389/fclim.2022.933091/full).
+*	Stellema, A., Sen Gupta, A., Taschetto, A.S. & Feng M. (2022) Pacific Equatorial Undercurrent: Mean-state, sources, and future changes. Frontiers in Climate, 4, [https://www.frontiersin.org/articles/10.3389/fclim.2022.933091/full](https://www.frontiersin.org/articles/10.3389/fclim.2022.933091/full).
 *	Sen Gupta, A., Stellema, A., Pontes, G.M. et al. (2021) Future changes to the upper ocean Western Boundary Currents across two generations of climate models. Scientific Reports, 11, 9538. [doi.org/10.1038/s41598-021-88934-w](https://doi.org/10.1038/s41598-021-88934-w)
 *	Stellema, A., Sen Gupta, A. & Taschetto, A.S. (2019) Projected slow down of South Indian Ocean circulation. Scientific Reports. 9, 17705. [doi.org/10.1038/s41598-019-54092-3](https://doi.org/10.1038/s41598-019-54092-3)
 
