@@ -4,12 +4,12 @@
   description: Developing a Lagrangian iron model and investigating future changes.
 
 - name: "Pacific Equatorial Undercurrent: Sources and Pathways Projections"
-  link:
+  link: 
   image: "https://stellema.github.io/assets/images/plx_220_07.jpg"
   description: Future changes investigated using Lagrangian particle-tracking.
 
-- name: "Equatorial Pacific Circulation: Historical and Future Multi-Model Analysis"
-  link:
+- name: "Pacific Equatorial Undercurrent: Mean state, sources, and future changes across models"
+  link: "https://www.frontiersin.org/articles/10.3389/fclim.2022.933091/full"
   image: /assets/images/map.jpg
   description: EUC and subtropical cell in reanalyses, high-res ocean model, CMIP5 and CMIP6.
 
