@@ -45,13 +45,31 @@ author-image: /assets/images/AuthorImage.jpg
 # 60 Words About the Author
 author-about: >
   PhD Candidate at the Climate Change Research Centre, UNSW, Sydney, Australia.
+  <br/><br/>
+  <strong>About</strong>
+  <br/><br/>
   My primary research interest is understanding how and why the circulation
-  of the ocean are projected to change in a future, warmer world.
-  I have investigated the expected future changes of ocean currents in the Pacific
-  and Indian Ocean and the major western boundary currents including the Gulf Stream,
-  Kuroshio Current and East Australian Current using over 60 coupled climate models.
+  of the ocean is projected to change in a future, warmer world.
+  <br/><br/>
   My current research examines the projected changes of source waters and
   biogeochemistry pathways in the equatorial Pacific using particle-tracking methods.
+  <br/><br/>
+  Previously, I investigated the expected future changes of ocean currents in the Pacific
+  and Indian Ocean and the major western boundary currents including the Gulf Stream,
+  Kuroshio Current and East Australian Current using over 60 coupled climate models.
+  <br/><br/>
+  I am in the final year of a PhD in Climate Science and completed a BSc in
+  Physics and Physical Oceanography with honours in Climate Science at UNSW, Sydney.
+  <br/><br/>
+
+  <strong>Publications</strong>
+  <br/><br/>
+  Stellema, A., Sen Gupta, A., Taschetto, A.S. & Feng, M. (2022). Pacific Equatorial Undercurrent: Mean-state, sources, and future changes. Frontiers in Climate, 4,<a href="https://www.frontiersin.org/articles/10.3389/fclim.2022.933091/full">https://www.frontiersin.org/articles/10.3389/fclim.2022.933091/full</a>
+  <br/><br/>
+  Sen Gupta, A., Stellema, A., Pontes, G.M., Vergés, A., Rossi, V. (2021). Future changes to the upper ocean Western Boundary Currents across two generations of climate models. Scientific Reports, 11, 9538.<a href="https://doi.org/10.1038/s41598-021-88934-w">https://doi.org/10.1038/s41598-021-88934-w</a>
+  <br/><br/>
+  Stellema, A., Sen Gupta, A. & Taschetto, A.S. (2019). Projected slow down of South Indian Ocean circulation. Scientific Reports. 9, 17705.<a href="https://doi.org/10.1038/s41598-019-54092-3">https://doi.org/10.1038/s41598-019-54092-3</a>
+  <br/><br/>
 
 # URL to the Author's Profile (i.e., Github, Twitter, Stackoverflow, etc)
 author-url: https://github.com/stellema
