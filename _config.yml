@@ -1,14 +1,12 @@
 markdown: kramdown
 
-# URL of the Site
 url: "https://stellema.github.io"
-# Base URL of the Site (i.e., Name of the Repository in which the Site is hosted)
 baseurl: ""
 
 # Title of the Site
 title: Annette Stellema
 # Description of the Site
-description: Climate Science / Physical Oceanography PhD Student
+description: Climate Scientist / Oceanographer 
 # URL of Image of the Site
 site-image: /assets/images/shifaaz-shamoon-sLAk1guBG90-unsplash.jpg
 # Keywords of the Site
@@ -20,7 +18,7 @@ favicon-url:
 heroimage: /assets/images/shifaaz-shamoon-sLAk1guBG90-unsplash.jpg
 # Social Media and Contact
 # If you don't want to use any icon, you can leave them blank.
-email: a.stellema@unsw.edu.au
+email: annette.stellema@csiro.au
 facebook_username:
 twitter_username:
 instagram_username:
@@ -44,28 +42,27 @@ author-name: Annette Stellema
 author-image: /assets/images/AuthorImage.jpg
 # 60 Words About the Author
 author-about: >
-  PhD Candidate at the Climate Change Research Centre, UNSW, Sydney, Australia.
+  Research Engineer at CSIRO in Hobart, Australia.
   <br/><br/>
   <strong>About</strong>
   <br/><br/>
-  My research interests include understanding how climate change will impact ocean circulation and biogeochemistry, 
-  developing software tools for climate research and improving climate models.
+  
+  My current research involves analysing extreme events in large ensembles and researching ways to improve hazard early warning systems.
   <br/><br/>
-  My PhD research examines model representation and future changes of circulation and iron in the tropical Pacific. 
-  I used particle-tracking methods to understand how the complex mix of multi-decadal projected changes in this region are connected. 
-  I also simuated the effects of circulation changes on nutrient supply to the equatorial Pacific by developing a semi-Lagrangian iron model.
+  I'm also interested in understanding the impact of climate change on tropical ocean circulation and the implications for marine ecosystems. 
+  My most recent research uses particle-tracking methods to understand how and why circulation in the tropical Pacific is projected to change and 
+  the effect of circulation changes on the supply of iron to the equatorial Pacific using a semi-Lagrangian iron model (manuscripts in prep).
   <br/><br/>
-  Previously, I investigated the expected future changes of ocean currents in the Pacific
-  and Indian Ocean and the major western boundary currents including the Gulf Stream,
-  Kuroshio Current and East Australian Current using over 60 coupled climate models.
+  I have also investigated future changes of upper-ocean circulation in the Pacific, Indian and Atlantic Oceans in over 60 coupled climate models.
   <br/><br/>
-  I am in the final year of a PhD in Climate Science and completed a Bachelor of Science majoring in
-  Physics and Maths (Physical Oceanography) with honours in Climate Science at UNSW, Sydney.
+  Some of my other research interests include making 3D data visualisations, circulation schematics and tracking synoptic features.
   <br/><br/>
-  Please contact me if you would like to discuss my research on ocean circulation, CMIP and observational datasets, teaching resources for marine heatwaves or python code for particle-tracking experiments.
+  I have a PhD in Climate Science and a Bachelor of Science majoring in Physics and Maths (Physical Oceanography) with honours in Climate Science at UNSW, Sydney.
   <br/><br/>
 
   <strong>Publications</strong>
+  <br/><br/>
+  Stellema, A. (2024). *Future changes of tropical Pacific circulation and biogeochemistry*. [Doctoral thesis, University of New South Wales]. UNSWorks. <a href="https://doi.org/10.26190/unsworks/25543">https://doi.org/10.26190/unsworks/25543</a>
   <br/><br/>
   Stellema, A., Sen Gupta, A., Taschetto, A.S. & Feng, M. (2022). Pacific Equatorial Undercurrent: Mean-state, sources, and future changes. Frontiers in Climate, 4,<a href="https://www.frontiersin.org/articles/10.3389/fclim.2022.933091/full">https://www.frontiersin.org/articles/10.3389/fclim.2022.933091/full</a>
   <br/><br/>
